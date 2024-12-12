@@ -1,2 +1,2 @@
-# addto.tomtom.com
+# webassets2.tomtom.com
 ##takeover by lunasec
